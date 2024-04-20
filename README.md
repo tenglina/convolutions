@@ -1,3 +1,3 @@
 # convolutions
 
-Exploring How CNNs Learn Image Features Through Convolutional Filters
+Visualizing how CNNs learn images
